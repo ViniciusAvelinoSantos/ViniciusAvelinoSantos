@@ -5,8 +5,7 @@ Apaixonado por Front-End | Back-End | Power BI</h3>
 
 -🌱 Atualmente estou aprendendo **JavaScript, HTML,React.js, Node.js e TypeScript.**
 
--👯 Também finalizei esse projeto em Power BI [Vendas](https://1drv.ms/u/c/44fdfae855f3d53a/ETrV81Xo-v0ggESqAAAAAAAB0ip57QewlAf5qgQmrjqmVg?e=mg4h1W)
-
+-👯 Também finalizei esse projeto em Power BI [Vendas](https://1drv.ms/u/c/44fdfae855f3d53a/ETrV81Xo-v0ggESqAAAAAAAB0ip57QewlAf5qgQmrjqmVg?e=rRV3Eg)
 -💬 Me pergunte sobre **SQL, Python, Power BI, Excel.**
 
 -📫Você me acha através do e-mail **avelinovinicius@yahoo.com.br**
