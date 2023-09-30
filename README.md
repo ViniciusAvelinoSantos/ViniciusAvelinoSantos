@@ -11,7 +11,7 @@ Apaixonado por Front-End | Back-End | Power BI</h3>
 
 -📫Você me acha através do e-mail **avelinovinicius@yahoo.com.br**
 
--📄 Meu currículo [https://www.linkedin.com/in/vinicius-avelino)
+-📄 Meu currículo https://www.linkedin.com/in/vinicius-avelino-125499177/
 
 <h3 align="left">Connect with me:</h3><p align="left">
 
