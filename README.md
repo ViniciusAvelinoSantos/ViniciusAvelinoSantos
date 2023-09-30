@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 , Eu sou Vinícius Avelino</h1><h3 align="center">
 Apaixonado por Front-End | Back-End | Power BI</h3>
 
--🔭 Atualmente terminei esse projeto em Power BI [Financeiro]([https://1drv.ms/u/c/44fdfae855f3d53a/ETrV81Xo-v0ggESrAAAAAAABT0BOTLvBRdrwGFR5U_cBEA?e=Ft4QEf](https://1drv.ms/u/c/44fdfae855f3d53a/ETrV81Xo-v0ggESrAAAAAAABMvCCxgU6F2O3G2b6QrZzSA?e=JLhyy0)
+-🔭 Atualmente terminei esse projeto em Power BI [Financeiro]([https://1drv.ms/u/c/44fdfae855f3d53a/ETrV81Xo-v0ggESrAAAAAAABT0BOTLvBRdrwGFR5U_cBEA?e=Ft4QEf](https://1drv.ms/u/c/44fdfae855f3d53a/ETrV81Xo-v0ggESrAAAAAAABMvCCxgU6F2O3G2b6QrZzSA?e=JLhyy0))
 
 -🌱 Atualmente estou aprendendo **JavaScript, HTML,React.js, Node.js e TypeScript.**
 
