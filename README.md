@@ -1,1 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=12bfbf&height=120&section=header"/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/viniciusavelinosantos/viniciusavelinosantos/output/snake.svg" alt="Snake animation" />
+
+###
