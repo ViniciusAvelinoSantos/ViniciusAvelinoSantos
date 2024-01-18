@@ -1,4 +1,12 @@
 <p align="left">Olá! Eu sou o Vinicius Avelino 👋!!</p>
+<ul>
+  <li>🖥️ Cursando: 3º Periodo em Tecnologia da Informação</li>
+  <li>🎓 Power BI - SENAC</li>
+  <li>🎓 Lógica de Programação - SENAI SP</li>
+  <li>🎓 SQL - PENSAR CURSOS</li>
+  <li>🎓 Python - PENSAR CURSOS</li>
+  <li>🔮 Materializando Entrar no Mercado em 2024!</li>
+</ul>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusavelinosantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusavelinosantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
