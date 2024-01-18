@@ -1,7 +1,7 @@
 <p align="left">Olá! Eu sou o Vinicius Avelino 👋!!</p>
 <ul>
   <li>🖥️ Cursando: 3º Periodo em Tecnologia da Informação</li>
-  <li>🎓 Power BI - SENAC</li>
+  <li>🎓 Power BI - SENACRJ</li>
   <li>🎓 Lógica de Programação - SENAI SP</li>
   <li>🎓 SQL - PENSAR CURSOS</li>
   <li>🎓 Python - PENSAR CURSOS</li>
